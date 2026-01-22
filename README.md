@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://www.fosshub.com/media/img/project/metaimg/643fb1e85c7b021d082ca44d.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/">
+<a href="https://ysids-apps-hub.github.io/.github/Thorium">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
